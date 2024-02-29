@@ -1,2 +1,2 @@
 # LearningHTML5
-LEarning HTML5
+Learning HTML5
